@@ -133,7 +133,7 @@ namespace VIN_LIB
         public int GetTransportYear(string vin)
         {
             Dictionary<string, string> Year = new Dictionary<string, string>();
-             Year.Add("A","1980");
+            Year.Add("A","1980");
              Year.Add("B","1981");
              Year.Add("C", "1982");
              Year.Add("D", "1983");
